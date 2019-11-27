@@ -2,5 +2,5 @@ This repository is only good for uploading screenshots which are referred to fro
 
 To use it in markup language do this:
 ```
- ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/screenshot-qrs-dealloc.png "screenshot")
+ ![screenshot](https://github.com/ChristofSchwarz/pics/raw/master/screenshot-qrs-dealloc.png "screenshot")
 ```
