@@ -1,0 +1,14 @@
+<xml version="1.0">
+    <ActiveStorms>
+        <LatestUpdate>6:00 UT, 8 Aug 2020</LatestUpdate>
+        <NewStormsLast24hrs>FIVE</NewStormsLast24hrs>
+        <ActiveStorm>
+            <TSRBasinDesc>NWP</TSRBasinDesc>
+            <StormName>FIVE</StormName>
+            <StormID>202005W</StormID>
+            <AdvisoryDate>2020070806</AdvisoryDate>
+            <FinalAdvisory>0</FinalAdvisory>
+            <TSRProductAvailability>WF</TSRProductAvailability>
+        </ActiveStorm>
+    </ActiveStorms>
+</xml>
